@@ -1,18 +1,50 @@
-# DIV-Data-Science-and-AI
-# Hello-Github connection!
+# 🚀 DIV - Data Anlytics and AI
+Hello, GitHub! 👋
 
-# Exciting News!!!
+# 🎉 Exciting News!
 
-  Our College organizing Department Industrial Vertical(DIV) for helping as to strong in specific domain and bridge the gap between industry and college,
-  I had chosen Data **Data Analytics and AI** vertical as I am interested in Data science.In our DIV session we build a Data Pipeline with our mentor guidance.
+ Our college has launched a Department Industrial Vertical (DIV) initiative — a program designed to help us strengthen domain-specific skills and bridge the gap between academic learning and industry requirements.
+
+I have chosen the Data Analytics and AI vertical because of my deep interest in the field of Data Science.
+
+During our DIV sessions, with the guidance of our mentor, we built a Data Pipeline that integrates various data sources and performs meaningful transformations.
+
+
  
- # Here what I done
+ # 💡 What I Worked On
  
-  1.Spark Installation
-  2.Hadoop Installation
-  3.Loading data in Mysql
-  4.Loading data in csv file
-  5.Using jupiter lab and JDBC I connect the Mysql work place
-  6.I joined the dataframe of data both in MySql and CSV
-  7.I write the joined dataframe to an another Mysql database and csv file
-  8.I submit the python script of spark using cmd command spark-submit
+ ✅ Apache Spark Installation
+
+✅ Hadoop Installation
+
+✅ Loading data into MySQL
+
+✅ Loading data from a CSV file
+
+✅ Using JupyterLab and JDBC to connect to MySQL Workbench
+
+✅ Joining data from MySQL and CSV into a single DataFrame
+
+✅ Writing the joined DataFrame back to another MySQL database and as a new CSV file
+
+✅ Submitting the Spark script using spark-submit via the command line
+# 📂 Tools & Technologies Used
+1.Apache Spark
+
+2.Hadoop
+
+3.MySQL
+
+4.JupyterLab
+
+5.JDBC
+
+6.Python
+
+7.CSV
+
+8.CMD / Terminal
+
+7.Java
+
+
