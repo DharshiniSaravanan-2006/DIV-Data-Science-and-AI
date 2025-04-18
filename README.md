@@ -14,4 +14,4 @@ Exciting News!!!
  # 5.Using jupiter lab and JDBC I connect the Mysql work place
  # 6.I joined the dataframe of data both in MySql and CSV
  # 7.I write the joined dataframe to an another Mysql database and csv file
- # 8.I submit the python script of spark using cmd commant spark-submit
+ # 8.I submit the python script of spark using cmd command spark-submit
